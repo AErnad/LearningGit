@@ -5,4 +5,5 @@ A few commits for this
 
 Ernad Aganovic
 
-This is commit to make conflict
+
+jah i sta sad polije konflikta?
