@@ -5,5 +5,5 @@ A few commits for this
 
 Ernad Aganovic
 
-change somethin to make conflict
 
+jah i sta sad polije konflikta?
